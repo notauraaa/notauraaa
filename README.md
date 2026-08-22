@@ -1,75 +1,126 @@
-👋 Ciao, sono notauraaa
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer+🇮🇹;Building+cool+things+with+code;Frontend+%2B+Backend+%2B+Coffee+☕;Welcome+to+my+GitHub!" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/notauraaa"> <img src="https://img.shields.io/github/followers/notauraaa?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0d1117" /> </a> <a href="https://github.com/notauraaa?tab=repositories"> <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&labelColor=0d1117" /> </a> <img src="https://komarev.com/ghpvc/?username=notauraaa&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" /> </p>
-🧑‍💻 whoami
-const developer = {
-  name: "notauraaa",
-  location: "Italy 🇮🇹",
+<div align="center">
+notauraaa
+Fullstack Developer 🇮🇹
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Frontend+%2B+Backend;Building+things+that+actually+work;Code.+Coffee.+Repeat.+%E2%98%95" alt="Typing SVG" /> <br> <a href="https://github.com/notauraaa"> <img src="https://img.shields.io/badge/GitHub-notauraaa-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/notauraaa?tab=repositories"> <img src="https://img.shields.io/badge/Projects-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </div>
+👨‍💻 About Me
+const notauraaa = {
+  country: "Italy 🇮🇹",
   role: "Fullstack Developer",
-  passion: ["Web Apps", "Clean UI", "Backend", "Open Source"],
-  currentlyBuilding: "something awesome 🚀",
+  focus: [
+    "Frontend",
+    "Backend",
+    "APIs",
+    "Databases",
+    "UI/UX"
+  ],
+  mindset: "Build → Break → Fix → Ship 🚀",
   coffee: true
 };
 
 
-Trasformo idee in prodotti digitali, dal primo componente React fino alle API e al database.
+Sono un Fullstack Developer italiano appassionato di sviluppo web.
+
+Mi piace trasformare idee in applicazioni reali, lavorando sia sul frontend che sul backend.
+
+Frontend       ████████████████████░  95%
+Backend        ██████████████████░░░  90%
+Databases      ████████████████░░░░░  80%
+DevOps         █████████████░░░░░░░░  65%
+Coffee         █████████████████████ 100%
 
 ⚡ Tech Stack
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" /> </p>
 Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php" /> </p>
-Database & DevOps
+Database & Tools
 <p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,linux" /> </p>
-🚀 What I Do
-<details> <summary>🎨 Frontend Development</summary> <br>
+🛠️ What I Build
+<details> <summary><b>🎨 Frontend</b></summary> <br>
+Responsive web applications
+Modern UI
+React / Next.js applications
+Component-based architectures
+Performance optimization
+Interactive experiences
+</details> <details> <summary><b>⚙️ Backend</b></summary> <br>
+REST APIs
+Authentication systems
+Database architecture
+Server-side applications
+API integrations
+Scalable backend services
+</details> <details> <summary><b>🚀 Fullstack</b></summary> <br>
 
-Creo interfacce moderne, responsive e performanti con particolare attenzione a UX, component architecture e accessibilità.
+Frontend + Backend + Database + Deployment.
 
-</details> <details> <summary>⚙️ Backend Development</summary> <br>
-
-Progetto API, autenticazione, database e servizi backend scalabili con architetture semplici da mantenere.
-
-</details> <details> <summary>🧩 Fullstack Development</summary> <br>
-
-Collego frontend, backend e database per trasformare un'idea in un'applicazione completa e realmente utilizzabile.
-
-</details> <details> <summary>🚢 Deployment & Infrastructure</summary> <br>
-
-Containerizzazione, CI/CD, deployment e gestione degli ambienti di sviluppo e produzione.
+L'obiettivo è trasformare un'idea in un prodotto completo.
 
 </details>
+🚀 Projects
+
+Alcuni dei progetti che sto costruendo.
+
+<table> <tr> <td width="50%">
+⚡ Project One
+
+Web application fullstack.
+
+Stack
+
+React Node.js PostgreSQL
+
+<br> <a href="https://github.com/notauraaa"> <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </td> <td width="50%">
+🧠 Project Two
+
+Esperimento / progetto personale.
+
+Stack
+
+Next.js TypeScript
+
+<br> <a href="https://github.com/notauraaa"> <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> </table> <p align="center"> <a href="https://github.com/notauraaa?tab=repositories"> <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github" /> </a> </p>
 📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=notauraaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notauraaa&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=notauraaa&theme=tokyonight&hide_border=true" /> </p>
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=notauraaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notauraaa&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=notauraaa&theme=tokyonight&hide_border=true" /> </div>
 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/notauraaa/notauraaa/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" /> </p>
-🎯 Currently
-┌──────────────────────────────────────────┐
-│                                          │
-│  🧠 Learning      →  New technologies    │
-│  🛠️ Building      →  Side projects      │
-│  🔍 Exploring     →  Better architectures│
-│  ☕ Drinking      →  Coffee              │
-│  🚀 Shipping      →  Ideas → Products    │
-│                                          │
-└──────────────────────────────────────────┘
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notauraaa/notauraaa/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notauraaa/notauraaa/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/notauraaa/notauraaa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </picture> </div>
+📈 GitHub Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=notauraaa&theme=tokyo-night&hide_border=true&area=true" width="100%" /> </div>
+🧠 Currently
+┌──────────────────────────────────────────────┐
+│                                              │
+│  🔨 Building      side projects             │
+│  📚 Learning      new technologies           │
+│  🧪 Experimenting with new ideas             │
+│  🚀 Shipping      real products              │
+│  ☕ Drinking      questionable amounts        │
+│                                              │
+└──────────────────────────────────────────────┘
 
-📌 Featured Projects
+💭 Developer Philosophy
+<div align="center">
+Make it work.
+Make it clean.
+Make it fast.
+Ship it. 🚀
+</div>
+🎯 Goals
+ Build more interesting fullstack projects
+ Contribute to open source
+ Improve system design skills
+ Learn new technologies
+ Ship projects instead of keeping them in /ideas
+ Drink less coffee ☕
+🤝 Connect
+<div align="center"> <a href="https://github.com/notauraaa"> <img src="https://img.shields.io/badge/GitHub-notauraaa-181717?style=for-the-badge&logo=github" /> </a> </div>
+<div align="center">
+Thanks for stopping by 👋
+> npm run build
+> npm run deploy
+> 🚀
 
-Qui puoi sostituire i placeholder con i tuoi progetti migliori.
+<img src="https://komarev.com/ghpvc/?username=notauraaa&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 
-Project	Description	Stack
-🚀 Project One	Una web app fullstack	React Node.js PostgreSQL
-⚡ Project Two	Tool / SaaS personale	Next.js TypeScript
-🧠 Project Three	Esperimento / Open Source	Python Docker
-<p align="center"> <a href="https://github.com/notauraaa?tab=repositories"> <img src="https://img.shields.io/badge/🔎_View_all_projects-00F7FF?style=for-the-badge&labelColor=0d1117" /> </a> </p>
-💡 My Dev Philosophy
-Simple > Complex
-Readable > Clever
-Ship > Perfect
-UX > Everything
-Coffee ≈ Debugging Power
+<br><br>
 
-📈 Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=notauraaa&theme=tokyo-night&hide_border=true&area=true" width="100%" /> </p>
-🤝 Let's Connect
-<p align="center"> <a href="https://github.com/notauraaa"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <i>“First make it work. Then make it right. Then make it fast.”</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" /> </div>
